@@ -1,0 +1,27 @@
+{
+  "name": "LootBox Key",
+  "symbol": "Key",
+  "image": "https://raw.githubusercontent.com/Zarve8/TokenMetadata/main/Key.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Zarve8/TokenMetadata/main/Key.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7yvXhc5yw5bux8fyGNG5ScYv4J1XHb4Rmb1LXyY4Yr2S",
+        "share": 100
+      }
+    ]
+  },
+  "description": "Key for LootBoxes",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "collection": {
+    "name": "KEY",
+    "family": "KEY"
+  }
+}
