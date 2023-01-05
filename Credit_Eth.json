@@ -1,18 +1,1 @@
-{
-    "title": "Asset Metadata",
-    "type": "object",
-    "properties": {
-        "name": {
-            "type": "string",
-            "description": "Identifies the asset to which this token represents",
-        },
-        "description": {
-            "type": "string",
-            "description": "Describes the asset to which this token represents",
-        },
-        "image": {
-            "type": "image/png",
-            "description": "https://raw.githubusercontent.com/Zarve8/TokenMetadata/main/Credit.png",
-        }
-    }
-}
+{"name":"Bean #1409","attributes":[{"trait_type":"Background","value":"Off White A"},{"trait_type":"Type","value":"Red Bean"},{"trait_type":"Eyes","value":"Closed"},{"trait_type":"Mouth","value":"Wide Toothy Smile"},{"trait_type":"Eyebrows","value":"Angry"},{"trait_type":"Face","value":"Round Glasses"},{"trait_type":"Clothing","value":"Blue Jacket"}],"image":"https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/1409.png"}
